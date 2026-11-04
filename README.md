@@ -6,10 +6,10 @@ The solutions found in this public repository are only for starting point or ret
 
 
 ## Starting Point
-### 0
+### Tier 0
 [Redeemer](./starting-point/0/redeemer/README.md)
 
-### 1
+### Tier 1
 [Appointment](./starting-point/1/appointment/README.md)
 
 [Crocodile](./starting-point/1/crocodile/README.md)
