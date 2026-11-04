@@ -1,5 +1,5 @@
-# Title
-Name of set - Tier X
+# Responder
+Starting Point - Tier 1
 
 ### 1. When visiting the web service using the IP address, what is the domain that we are being redirected to?
 Putting this in the browser gives us `unika.htb`.
